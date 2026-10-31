@@ -1,0 +1,23 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.251",
+  "edition": "single-editor",
+  "release_date": "2026-10-30",
+  "notes": "Address Book: Field separators, two-column Index + Index size, leader dots, cover preview, preview-before-Drive, per-meeting Size/Line spacing, Acrobat-editable PDFs, print-page layout. Contacts/Google: custom-field round-trip; strip (Shared); remove TriState Separates; NCcfs/VAcfs/no field membership; Upload uses clean Field-Meeting labels.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-SingleEditor-1.251-mac.zip",
+      "download_url": "ContactsFreeShare-SingleEditor-1.251-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-SingleEditor-1.251-windows.zip",
+      "download_url": "ContactsFreeShare-SingleEditor-1.251-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
