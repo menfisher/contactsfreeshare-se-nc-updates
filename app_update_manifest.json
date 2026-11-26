@@ -1,0 +1,23 @@
+{
+  "format": "contactsfreeshare.app_update.v1",
+  "latest_version": "1.258",
+  "edition": "single-editor",
+  "release_date": "2026-11-26",
+  "notes": "Reduced print-book note sizes are no longer floored to the book font, pb/pa line height follows the sized type, and pocket-book notes can print below 6 pt.",
+  "packages": {
+    "mac": {
+      "label": "Mac",
+      "filename": "ContactsFreeShare-SingleEditor-1.258-mac.zip",
+      "download_url": "ContactsFreeShare-SingleEditor-1.258-mac.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    },
+    "windows": {
+      "label": "Windows",
+      "filename": "ContactsFreeShare-SingleEditor-1.258-windows.zip",
+      "download_url": "ContactsFreeShare-SingleEditor-1.258-windows.zip",
+      "file_id": "",
+      "mime_type": "application/zip"
+    }
+  }
+}
